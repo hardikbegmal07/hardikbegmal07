@@ -171,7 +171,7 @@ I'm currently interested in:
 
 
 ## 📫 Connect With Me
-💼 [LinkedIn](https://https://www.linkedin.com/in/hardik-begmal/)
+💼 [LinkedIn](https://www.linkedin.com/in/hardik-begmal/)
 💻 [GitHub](https://github.com/hardikbegmal07)
 
 
