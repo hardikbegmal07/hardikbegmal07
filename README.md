@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm an Android developer with **3+ years of professional experience** building and maintaining production mobile applications.
 
-I'm currently based in **Melbourne, Australia**, and I'm focused on deepening my Android expertise while expanding into **React Native and mobile application security**.
+I'm focused on deepening my Android expertise while expanding into **React Native and mobile application security**.
 
 ---
 
